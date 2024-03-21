@@ -1,5 +1,5 @@
 /*
-    author: ktfk
+    author: ktfk/fashka24
     to run:
         clang++ POLE.CPP -o EXES/POLE.EXE
         OR
